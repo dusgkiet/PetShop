@@ -6,7 +6,7 @@ Chào mừng đến với PetShop, cửa hàng một cửa đáp ứng mọi nhu
 
 ## Giới thiệu
 
-Là  đồ án cuối môn [Lập trình ứng dụng Web](https://github.com/dusgkiet/Web_Programming).PetShop là ứng dụng được thiết kế để giúp chủ vật nuôi tìm được sản phẩm tốt nhất cho thú cưng của mình. Cho dù bạn đang tìm kiếm thức ăn, đồ chơi hay phụ kiện, PetShop đều đáp ứng được.
+Là  đồ án cuối môn [Lập trình ứng dụng Web](https://github.com/dusgkiet/Web_Programming). PetShop là ứng dụng được thiết kế để giúp chủ vật nuôi tìm được sản phẩm tốt nhất cho thú cưng của mình. Cho dù bạn đang tìm kiếm thức ăn, đồ chơi hay phụ kiện, PetShop đều đáp ứng được.
 
 ## Tính năng
 
